@@ -6,7 +6,7 @@ import datetime
 
 # print(x)
 
-headers = {"Authorization": "Bearer ya29.a0ARrdaM9_UF1f60c_bg-Ua5HkNRofe9tn1svcW-UKtwqV-P-KQIg8hsdL9WXCq0-vkT7xSGqLHLLjMkxvJ9l7cp1n3ZIepNjT7V2mMXGc_AeAmVlAt3Aayv7IY6mldlO8T-5PcgHRj8IVeTVNMdQiTNoPZjcq"}
+headers = {"Authorization": "Bearer ya29.a0ARrdaM_Arm1uw0fC9uzUe6CZOBtsHvcloBZiRb9oMDPsbSM31ymcEp77U6eF4QtAO3IrqOb_6b9EdV62KzhMgYBcwZH3UHRo0Hmg46A0lQejFpqS7isnQgXxlNCNbSpzGLY6BRxdlUJifwtVDUkXoVI2S06e"}
 # x = datetime.datetime.now()
 para = {
     "name": "duq940.sql",
